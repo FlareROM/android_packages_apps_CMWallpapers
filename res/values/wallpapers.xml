@@ -16,6 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="partner_wallpapers" translatable="false">
+        <item>flare1</item>
         <item>ventana</item>
         <item>seasidequarry</item>
         <item>glassbearings</item>
@@ -32,6 +33,7 @@
     </string-array>
 
     <string-array name="info" translatable="false">
+        <item>flare1 - flarerom</item>
         <item>Ventana - Dave Kover</item>
         <item>Seaside Quarry - Pablo Garcia Saldana</item>
         <item>Glass Bearings - Dave Kover</item>
